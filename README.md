@@ -1,4 +1,4 @@
-# Streamlit Lab 1: Wine Classifier Dashboard
+# Lab Assignment 3: Streamlit Wine Classifier Dashboard
 
 **Author:** Rutvij Surti
 
