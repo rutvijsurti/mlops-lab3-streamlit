@@ -1,0 +1,6 @@
+fastapi[all]
+scikit-learn
+joblib
+streamlit
+requests
+pandas
